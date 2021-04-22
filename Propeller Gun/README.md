@@ -1,4 +1,4 @@
 # Propeller Gun
-*Video tutorial link:
+* Video tutorial link:
 
 ## Required Components:
